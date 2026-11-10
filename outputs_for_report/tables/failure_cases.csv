@@ -1,0 +1,11 @@
+event,label,text_clean,p_text,p_image,p_fusion
+hurricane_maria,informative,Describing our week in three words: Fuerza Puerto Rico @user Sunday Recap ➡️,0.066305526,0.08106547,0.07442349418997765
+hurricane_harvey,informative,Texans plan to honor Harvey heroes at Sunday's Liberty Whiteout game,0.11749648,0.083772026,0.09894803166389465
+hurricane_maria,informative,Thank you to everyone who came last night and helped us raise money for Puerto Rico!,0.146364,0.08619909,0.11327330097556115
+hurricane_irma,informative,Live Irma Update on LashanaMarie Beauty | Black Family Vlogs - Click link to view & comment:…,0.08964594,0.14160848,0.11822533383965492
+hurricane_irma,informative,Back to work post-Irma in my Studio Physics class.,0.04424841,0.19016376,0.1245018530637026
+hurricane_maria,not_informative,11 pm advisory is in for Hurricane Maria. Forecast to be well east of JAX Sunday evening.,0.86267847,0.8751661,0.869546675682068
+mexico_earthquake,not_informative,How many tragedies! Livorno Irma Hurricane harveystorm Mexico Earthquake,0.75598925,0.95168984,0.8636245757341385
+hurricane_irma,informative,"Meet Irma!! The go-to LulaRoe top. It is loose, knit high-lo tunic with fitted sleeves!lularoe lularoeirma…",0.04432679,0.22168453,0.1418735470622778
+hurricane_harvey,informative,"Harvey Hair... Don't Care! Day on 9/15. Donate $1 to Common Threads and wear crazy hair, hat, etc. Be Bold GRHS",0.058073223,0.21697728,0.1454704560339451
+hurricane_irma,informative,IRMA NFL : Greg Olsen suffers broken foot: (via Twitter…,0.15045461,0.14813088,0.1491765581071377

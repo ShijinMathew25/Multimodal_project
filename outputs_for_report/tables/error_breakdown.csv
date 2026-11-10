@@ -1,0 +1,5 @@
+case,posts,fusion_accuracy
+both right,1280,1.0
+both wrong,232,0.0
+only image right,353,0.7422096317280453
+only text right,372,0.49193548387096775

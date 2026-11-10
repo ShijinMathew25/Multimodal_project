@@ -1,0 +1,9 @@
+,value
+records,18082.0
+missing text,0.0
+missing / corrupt images,0.0
+exact duplicate rows,0.0
+rows with duplicated text,3169.0
+  ...from tweets with several images,3169.0
+"same tweet, images with different labels",283.0
+mean words per tweet,13.8
