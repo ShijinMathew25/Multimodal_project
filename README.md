@@ -1,7 +1,7 @@
 # Multimodal Identification of Informative Social Media Posts for Disaster Response
 
-Identifies disaster tweets (text + image) as being one of the two classes: informative or not informative
-Compares text only, image only and fusion models, using the CrisisMMD v2.0 dataset.
+Classifies disaster tweets (text + image) as **informative** or **not informative**
+using the CrisisMMD v2.0 dataset, and compares text-only, image-only and fusion models.
 
 **Research question:** Does multimodal fusion improve informativeness classification
 compared with text-only and image-only models?
@@ -18,15 +18,16 @@ compared with text-only and image-only models?
 Late fusion vs text-only: McNemar p = 0.0007.
 
 ## How to reproduce
-1. Open `CrisisMMD_submission.ipynb` in Google Colab.
+1. Open `Multimodal_proj_a1961396.ipynb` in Google Colab.
 2. Select **Runtime → Change runtime type → T4 GPU**.
 3. Select **Runtime → Run all** (about 30 minutes; the dataset downloads automatically).
-4. Results are saved to `outputs/figures` and `outputs/tables`.
+4. Results are saved to `outputs/figures` and `outputs/tables` in Colab
+   (the results from our run are in the `outputs_for_report` folder of this repository).
 
 ## Files
-- `CrisisMMD_submission.ipynb`: full pipeline (data quality, preprocessing, features, models, evaluation)
-- `outputs/figures`: all figures used in the report
-- `outputs/tables`: all result tables (CSV)
+- `Multimodal_proj_a1961396.ipynb`: full pipeline (data quality, preprocessing, features, models, evaluation)
+- `outputs_for_report/figures`: all figures used in the report
+- `outputs_for_report/tables`: all result tables (CSV)
 
 ## Requirements
 Python 3, PyTorch, torchvision, transformers, datasets, scikit-learn, pandas, matplotlib
@@ -43,4 +44,4 @@ of people are displayed.
 - Tan, M., & Le, Q. (2019). EfficientNet. ICML.
 - Arevalo, J. et al. (2017). Gated multimodal units for information fusion. ICLR Workshop.
 
-Author: Shijin Mathew
+Author: Shijin Mathew (a1961396)
